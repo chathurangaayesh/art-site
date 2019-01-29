@@ -1,0 +1,14 @@
+* I USED- Apache/2.4.35 (Win32) OpenSSL/1.1.0i PHP/7.2.11
+* MYSQL SEVER - Server: 127.0.0.1 via TCP/IP
+		Server type: MariaDB
+		Server connection: SSL is not being used Documentation
+		Server version: 10.1.36-MariaDB - mariadb.org binary distribution
+		Protocol version: 10
+		User: mysqluser@localhost
+		Server charset: UTF-8 Unicode (utf8)
+
+* DATABASE SQL FILE art_lifestyle.sql 	. you must import in into your sever database name as "art_lifestyle" 
+* IN CONNECTION FILE, you MUST CHANGE USER NAME AND PASSWORD AS YOUR SETTINGS.\
+* BUYER ID MUST BE TAKE BY SESSION IN LOGIN PAGE.I DID COMMENT IT IN THE CODE.
+
+if you have any Problem please Chathurangaayesh1994@gmail.com
